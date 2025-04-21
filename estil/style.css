@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html {background-color: rgb(194, 175, 156); font-family: Arial, Helvetica, sans-serif;}
-div {display: flex; justify-content: center;}
+div, nav {display: flex; justify-content: center;}
 section {width: 900px; background-color: rgb(111, 111, 111);
     justify-content: center; margin: auto; margin-top: 20px;
     margin-bottom: 20px; text-align: justify;
